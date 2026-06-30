@@ -1,5 +1,5 @@
 ### Hi there, 我是 Hao Peng 👋
-- 🔭 目前就职于快手，正在做 VLM Agent RL 方向的业务探索
+- 🔭 目前就职于快手，正在做 VLM Agent 方向的业务探索
 - 🌱 正在学习 Multimodal Understanding、GUI Grounding、Agent Planning
 - 👯 期待合作 ...
 - 💬 可以聊 Python、LangGraph、Agent System
