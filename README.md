@@ -10,7 +10,7 @@
 
 ### 💼 经历
 
-- **2025.08 - 至今** &nbsp; 快手 · Kuaishou &nbsp;|&nbsp; VLM Agent RL 业务探索
+- **2025.08 - 至今** &nbsp; 快手 · 北京 &nbsp;|&nbsp; VLM Agent RL 业务探索
 - **2025.04 - 2025.08** &nbsp; 微软中国 · 苏州 &nbsp;|&nbsp; Intern
 
 ---
