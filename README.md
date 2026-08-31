@@ -1,16 +1,16 @@
 ### Hi there, 我是 Hao Peng 👋
 - 🔭 目前就职于快手，正在做 VLM Agent 方向的业务探索
-- 🌱 正在学习 Multimodal Understanding、GUI Grounding、Agent Planning
+- 🌱 正在学习 Multimodal Understanding、GUI Grounding、Agent Planning、Long-horizon Task
 - 👯 期待合作 ...
-- 💬 可以聊 Python、LangGraph、Agent System
+- 💬 可以聊 LangGraph、Agent System、Memory management
 - 📫 联系我: [GitHub](https://github.com/haopengmai)
-- 😄 开放+进化！~
+- 😄 保存热情！~
 
 ---
 
 ### 💼 经历
 
-- **2026.06 - 至今** &nbsp; 快手 · 北京 &nbsp;|&nbsp; VLM Agent RL 业务探索
+- **2026.06 - 至今** &nbsp; 快手 · 北京 &nbsp;|&nbsp; VLM Agent 业务探索
 - **2025.04 - 2025.08** &nbsp; 微软中国 · 苏州 &nbsp;|&nbsp; Intern
 
 ---
