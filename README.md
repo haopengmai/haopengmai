@@ -19,5 +19,4 @@
 ---
 <p align="center">
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=haopengmai&theme=github" alt="GitHub 公开仓库统计（不含 Fork）" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haopengmai&theme=github" alt="公开仓库语言分布（按仓库数，不含 Fork）" />
 </p>
