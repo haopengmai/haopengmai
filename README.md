@@ -18,6 +18,6 @@
 
 ---
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=haopengmai&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haopengmai&layout=compact&langs_count=8" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=haopengmai&theme=github" alt="GitHub 公开仓库统计（不含 Fork）" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haopengmai&theme=github" alt="公开仓库语言分布（按仓库数，不含 Fork）" />
 </p>
