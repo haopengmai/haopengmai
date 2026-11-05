@@ -1,4 +1,7 @@
 ### Hi there, 我是 Hao Peng 👋
+
+⭐ [![GitHub Stars](https://img.shields.io/github/stars/haopengmai?style=for-the-badge&logo=github&label=Total%20Stars)](https://github.com/haopengmai?tab=repositories&sort=stargazers)
+
 - 🔭 目前就职于快手，正在做 VLM Agent 方向的业务探索
 - 🌱 正在学习 Multimodal Understanding、GUI Grounding、Agent Planning、Long-horizon Task
 - 👯 期待合作 ...
